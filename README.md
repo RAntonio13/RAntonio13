@@ -24,7 +24,7 @@
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=3&width=100%" width="100%" />
 </div>
 
 <br/>
@@ -70,3 +70,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantonio13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
+</div>
