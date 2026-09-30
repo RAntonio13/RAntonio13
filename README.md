@@ -4,7 +4,7 @@
 
   <br/>
 
-  <p align="center">
+  <p>
     <a href="mailto:ro.aab1308@gmail.com" target="_blank" title="Gmail">
       <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Gmail" />
     </a>
@@ -25,11 +25,9 @@
   <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&height=3&width=100%" width="100%" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <h3>📍 About Me</h3>
   <p>
     Front-End & Full Stack Developer based in <b>Mallorca, Spain</b>. Graduated from <b>4Geeks Academy</b>, specializing in building modern, performant, and user-centered web applications. I turn complex problems into clean, interactive digital experiences with JavaScript, React, and Tailwind CSS.
@@ -39,39 +37,36 @@
     <b>🎓 Education:</b> Full Stack Developer Degree — 4Geeks Academy &nbsp;|&nbsp;
     <b>🗣️ Languages:</b> English (C1 Advanced) • Spanish (Native)
   </p>
-</div>
 
-<br/>
+  <br/><br/>
 
-<h3 align="center">⚡ Tech Stack & Capabilities</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,python,flask,mysql,git,github,postman,ps&theme=dark" alt="Skills" />
-  </a>
-</p>
+  <h3>⚡ Tech Stack & Capabilities</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,python,flask,mysql,git,github,postman,ps&theme=dark" alt="Skills" />
+    </a>
+  </p>
 
-<br/>
+  <br/><br/>
 
-<h3 align="center">🚀 Featured Project</h3>
-<div align="center">
+  <h3>🚀 Featured Project</h3>
   <a href="https://github.com/alexisrrh/proyecto-Peliculas" target="_blank">
     <img src="https://img.shields.io/badge/Featured_Project-VHSFlix_Movie_App-E62429?style=for-the-badge&logo=react&logoColor=white" alt="VHSFlix" />
   </a>
+  <br/><br/>
   <p>
     A streaming-inspired web application for browsing movie catalogs, watching trailers, and managing favorites built with React, REST APIs, and state management.
   </p>
-</div>
 
-<br/>
+  <br/><br/>
 
-<h3 align="center">📊 GitHub Overview</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rantonio13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantonio13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+  <h3>📊 GitHub Overview</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rantonio13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantonio13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
 
-<br/>
+  <br/>
 
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
