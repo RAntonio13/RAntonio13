@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:roberth.a.andrade.b@gmail.com">
+  <a href="mailto:ro.aab1308@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/bobel13/">
@@ -16,8 +16,15 @@
 
 <br/>
 
+<h3 align="center">👨‍💻 Sobre Mí / About Me</h3>
+<p align="center">
+  <b>ES:</b> Soy un desarrollador frontend de Venezuela apasionado por construir interfaces de usuario modernas, interactivas y altamente funcionales. Me encanta transformar ideas en código limpio y escalable, prestando especial atención al detalle visual y a la experiencia del usuario. Siempre estoy explorando nuevas herramientas para mejorar el rendimiento de mis proyectos. 🚀<br><br>
+  <b>EN:</b> I'm a passionate frontend developer from Venezuela focused on building modern, interactive, and highly functional user interfaces. I love transforming ideas into clean, scalable code with a strong attention to visual detail and user experience. I'm always exploring new tools to optimize the performance of my projects. 🚀
+</p>
+
+<br/>
+
 <h3 align="center">🛠️ Languages & Tools</h3>
-<!-- Los iconos están separados en Frontend, Backend y Herramientas para mejor legibilidad -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend" />
