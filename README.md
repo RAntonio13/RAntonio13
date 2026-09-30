@@ -1,26 +1,29 @@
 <div align="center">
-  <!-- GIF de Spider-Man en la cabecera -->
-  <img src="https://media.giphy.com/media/SF9Z0shNT07T2/giphy.gif" width="130" alt="Spider-Man Pixel" />
-  
-  <h1>Hi 👋, I'm Roberth Andrade 🕷️</h1>
+  <h1>I'm Roberth Andrade</h1>
   <h3>Full Stack & Frontend Developer</h3>
 
+  <br/>
+
+  <!-- Iconos estilo smartphone / App icons -->
   <p align="center">
-    <!-- Icono Email (Estilo Apple / iCloud) -->
-    <a href="mailto:ro.aab1308@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+    <a href="mailto:ro.aab1308@gmail.com" target="_blank" title="Gmail">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/bobel13/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/bobel13/" target="_blank" title="LinkedIn">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/bobel1308">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/bobel1308" target="_blank" title="Instagram">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" height="38" alt="Instagram" />
     </a>
-    <!-- Icono Ubicación (Estilo Apple) con redirección a Google Maps -->
-    <a href="https://www.google.com/maps/place/Mallorca,+Spain" target="_blank">
-      <img src="https://img.shields.io/badge/Mallorca%2C_Spain-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Location" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.google.com/maps/place/Mallorca,+Spain" target="_blank" title="Location: Mallorca, Spain">
+      <img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="38" height="38" alt="Location" />
     </a>
   </p>
+
+  <br/>
 
   <!-- Línea divisoria animada -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -28,23 +31,17 @@
 
 <br/>
 
-<!-- Sección de dos columnas (About Me + GIF) -->
-<table width="100%" align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🕸️ About Me</h3>
-      <p>
-        Front-End & Full Stack Developer based in Mallorca, Spain. Graduated from <b>4Geeks Academy</b>, specializing in building modern, performant, and user-centered web applications. I turn complex problems into clean, interactive digital experiences with JavaScript, React, and Tailwind CSS.
-      </p>
-      <br/>
-      <b>🎓 Education:</b> Full Stack Developer Degree — 4Geeks Academy<br/>
-      <b>🗣️ Languages:</b> English (C1 Advanced) | Spanish (Native)
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="200" alt="Spider-Man GIF" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📍 About Me</h3>
+  <p>
+    Front-End & Full Stack Developer based in <b>Mallorca, Spain</b>. Graduated from <b>4Geeks Academy</b>, specializing in building modern, performant, and user-centered web applications. I turn complex problems into clean, interactive digital experiences with JavaScript, React, and Tailwind CSS.
+  </p>
+  <br/>
+  <p>
+    <b>🎓 Education:</b> Full Stack Developer Degree — 4Geeks Academy &nbsp;|&nbsp;
+    <b>🗣️ Languages:</b> English (C1 Advanced) • Spanish (Native)
+  </p>
+</div>
 
 <br/>
 
