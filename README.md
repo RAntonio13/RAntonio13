@@ -34,11 +34,3 @@
     <img src="https://skillicons.dev/icons?i=git,bash,jest,postman,ps,unity&theme=dark" alt="Tools" />
   </a>
 </p>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rantonio13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantonio13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
