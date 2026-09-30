@@ -4,7 +4,6 @@
 
   <br/>
 
-  <!-- Iconos estilo smartphone / App icons -->
   <p align="center">
     <a href="mailto:ro.aab1308@gmail.com" target="_blank" title="Gmail">
       <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Gmail" />
@@ -25,7 +24,6 @@
 
   <br/>
 
-  <!-- Línea divisoria animada -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
