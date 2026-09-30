@@ -6,8 +6,9 @@
   <h3>Full Stack & Frontend Developer</h3>
 
   <p align="center">
+    <!-- Icono Email (Estilo Apple / iCloud) -->
     <a href="mailto:ro.aab1308@gmail.com">
-      <img src="https://img.shields.io/badge/Email-E62429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/bobel13/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,7 +16,10 @@
     <a href="https://instagram.com/bobel1308">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Mallorca%2C%20Spain-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <!-- Icono Ubicación (Estilo Apple) con redirección a Google Maps -->
+    <a href="https://www.google.com/maps/place/Mallorca,+Spain" target="_blank">
+      <img src="https://img.shields.io/badge/Mallorca%2C_Spain-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Location" />
+    </a>
   </p>
 
   <!-- Línea divisoria animada -->
@@ -25,7 +29,7 @@
 <br/>
 
 <!-- Sección de dos columnas (About Me + GIF) -->
-<table>
+<table width="100%" align="center">
   <tr>
     <td width="60%" valign="top">
       <h3>🕸️ About Me</h3>
@@ -37,7 +41,7 @@
       <b>🗣️ Languages:</b> English (C1 Advanced) | Spanish (Native)
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="85%" alt="Spider-Man GIF" />
+      <img src="https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif" width="200" alt="Spider-Man GIF" />
     </td>
   </tr>
 </table>
