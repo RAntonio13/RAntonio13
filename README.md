@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Roberth Andrade</h1>
+  <h1>Hi 👋, I'm Roberth Andrade</h1>
   <h3>Full Stack & Frontend Developer</h3>
 
   <br/>
@@ -11,7 +11,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/bobel13/" target="_blank" title="LinkedIn">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/bobel1308" target="_blank" title="Instagram">
